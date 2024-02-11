@@ -1,2 +1,4 @@
 # androidDev
- first attemp at android dev
+ First look at android development
+
+ Made a raindrop catching game
